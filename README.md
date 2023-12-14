@@ -3,30 +3,35 @@
 ### Recurso de aprendizaje de Cultura Digital 
 
 
-Autor: 
+Autor: Carolina Morales Muñoz
 
 
-Fecha: 
+Fecha: 18/12/2023
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+![Cultura Digital - Hibridación Videojuegos](https://www.unir.net/wp-content/uploads/2015/04/videojuegos_1920x1080.jpg) 
 
 
 
 ## Planteamiento
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-## Re-descubriendo la hibridacion: Caso 1
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+La obra de Lev Manovich sobre la hibridación de medios proporciona una lente única para analizar cómo la convergencia entre lo narrativo y lo interactivo redefine las experiencias digitales. En este ensayo, nos sumergimos en dos expresiones distintas de la hibridación de medios, "Detroit: Become Human" y "Beat Saber", para examinar cómo estas obras encarnan los principios de Manovich basados en la fusión y la reconfiguración de elementos narrativos y visuales en el paisaje digital contemporáneo.
 
 
+## Re-descubriendo la hibridacion: Caso 1 - Detroit: Become Human
 
-## Re-descubriendo la hibridacion: Caso 2
+![Detroit: Become Human](https://gaming-cdn.com/images/products/7001/orig-fallback-v1/detroit-become-human-pc-juego-steam-cover.jpg?v=1683813896)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+
+
+![Detroit: Become Human](https://i.redd.it/k9tj3vqm4hi31.png) 
+
+
+## Re-descubriendo la hibridacion: Caso 2 - Beat Saber
+
+![Beat Saber](https://alehandorovr.com/wp-content/uploads/2020/11/beat-saber-2010319.jpg)
+
 
 
 ### Referencias y Bibliografía
